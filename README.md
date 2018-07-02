@@ -1,3 +1,3 @@
 # hello-world
 
-Hi everyone , I am Kashinath singh. I am leraning github right now.
+Hi everyone , I am Kashinath singh. I am learning github right now.
